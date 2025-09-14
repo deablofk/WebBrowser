@@ -1,4 +1,4 @@
-# Deditor - A Modern Text Editor
+# WebBrowser
 
 ## DEMO 
 
